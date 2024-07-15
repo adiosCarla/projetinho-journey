@@ -1,4 +1,4 @@
-Projeto Journey
+# Projeto Journey
 Projeto criação de site inspirado no jogo Journey
 
 ## Desenvolvedoras
